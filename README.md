@@ -42,3 +42,8 @@ During testing, defects were identified, documented and reported with steps to r
 ## 🎯 Result
 
 The project provided practical experience in analyzing requirements, designing tests, executing test cases and documenting defects in a web application.
+
+## 📂 Project Materials
+
+- [Test Design](./test-design/README.md)
+- [Bug Reports](./bug-reports/)
